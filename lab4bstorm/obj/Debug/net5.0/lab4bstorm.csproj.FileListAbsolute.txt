@@ -1,0 +1,16 @@
+C:\Users\12055\Documents\TA for 221\221 Test Code\lab4bstorm\bin\Debug\net5.0\lab4bstorm.exe
+C:\Users\12055\Documents\TA for 221\221 Test Code\lab4bstorm\bin\Debug\net5.0\lab4bstorm.deps.json
+C:\Users\12055\Documents\TA for 221\221 Test Code\lab4bstorm\bin\Debug\net5.0\lab4bstorm.runtimeconfig.json
+C:\Users\12055\Documents\TA for 221\221 Test Code\lab4bstorm\bin\Debug\net5.0\lab4bstorm.runtimeconfig.dev.json
+C:\Users\12055\Documents\TA for 221\221 Test Code\lab4bstorm\bin\Debug\net5.0\lab4bstorm.dll
+C:\Users\12055\Documents\TA for 221\221 Test Code\lab4bstorm\bin\Debug\net5.0\ref\lab4bstorm.dll
+C:\Users\12055\Documents\TA for 221\221 Test Code\lab4bstorm\bin\Debug\net5.0\lab4bstorm.pdb
+C:\Users\12055\Documents\TA for 221\221 Test Code\lab4bstorm\obj\Debug\net5.0\lab4bstorm.csproj.AssemblyReference.cache
+C:\Users\12055\Documents\TA for 221\221 Test Code\lab4bstorm\obj\Debug\net5.0\lab4bstorm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12055\Documents\TA for 221\221 Test Code\lab4bstorm\obj\Debug\net5.0\lab4bstorm.AssemblyInfoInputs.cache
+C:\Users\12055\Documents\TA for 221\221 Test Code\lab4bstorm\obj\Debug\net5.0\lab4bstorm.AssemblyInfo.cs
+C:\Users\12055\Documents\TA for 221\221 Test Code\lab4bstorm\obj\Debug\net5.0\lab4bstorm.csproj.CoreCompileInputs.cache
+C:\Users\12055\Documents\TA for 221\221 Test Code\lab4bstorm\obj\Debug\net5.0\lab4bstorm.dll
+C:\Users\12055\Documents\TA for 221\221 Test Code\lab4bstorm\obj\Debug\net5.0\ref\lab4bstorm.dll
+C:\Users\12055\Documents\TA for 221\221 Test Code\lab4bstorm\obj\Debug\net5.0\lab4bstorm.pdb
+C:\Users\12055\Documents\TA for 221\221 Test Code\lab4bstorm\obj\Debug\net5.0\lab4bstorm.genruntimeconfig.cache
